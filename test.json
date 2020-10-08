@@ -1,0 +1,46 @@
+{
+  "Struktur": [
+    {
+      "Stufe 1": "x",
+      "Stufe 2": "Was?",
+      "Stufe 3": "Objekt?",
+      "Stufe 4": "Zustand?"
+    },
+    {
+      "Stufe 1": "A - Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "A - Garten"
+    },
+    {
+      "Stufe 2": "Beet"
+    },
+    {
+      "Stufe 4": "ungepflegt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "zerstört"
+    },
+    {
+      "Stufe 2": "Rasen"
+    },
+    {
+      "Stufe 4": "nicht gemäht"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "zerstört"
+    }
+  ]
+}

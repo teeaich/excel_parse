@@ -1,0 +1,2132 @@
+{
+  "Struktur": [
+    {
+      "Stufe 1": "x",
+      "Stufe 2": "Was?",
+      "Stufe 3": "Objekt?",
+      "Stufe 4": "Zustand?"
+    },
+    {
+      "Stufe 1": "A - Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "A - Garten"
+    },
+    {
+      "Stufe 2": "Beet"
+    },
+    {
+      "Stufe 4": "ungepflegt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "zerstört"
+    },
+    {
+      "Stufe 2": "Rasen"
+    },
+    {
+      "Stufe 4": "nicht gemäht"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "zerstört"
+    },
+    {
+      "Stufe 1": "A - Objekte"
+    },
+    {
+      "Stufe 2": "Bank"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Fahrradständer"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Mülltonnen"
+    },
+    {
+      "Stufe 4": "nicht geleert"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Spielplatz"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Wäschespinne"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "A - Wege"
+    },
+    {
+      "Stufe 4": "ungereinigt"
+    },
+    {
+      "Stufe 4": "nicht gestreut"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "H - Dach"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "H - Eingangsbereich"
+    },
+    {
+      "Stufe 2": "Beleuchtung"
+    },
+    {
+      "Stufe 3": "Lichtschalter"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Fliese"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Steintreppe"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Briefkasten"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Informationstafel"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Sprechanlage"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "H - Fassade"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "H - Garage"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Tor"
+    },
+    {
+      "Stufe 4": "öffnet nicht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "H - Keller"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Parzelle"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "H - Treppenhaus"
+    },
+    {
+      "Stufe 2": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Briefkasten"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Elektrokasten"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Treppe/Boden"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "verunreinigt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Bad/Gäste-WC"
+    },
+    {
+      "Stufe 2": "Badewanne"
+    },
+    {
+      "Stufe 3": "Abfluss"
+    },
+    {
+      "Stufe 4": "verstopft"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Mischbatterie"
+    },
+    {
+      "Stufe 4": "leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Wanne"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Fliese"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Dusche"
+    },
+    {
+      "Stufe 3": "Abfluss"
+    },
+    {
+      "Stufe 4": "verstopft"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Mischbatterie"
+    },
+    {
+      "Stufe 4": "leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Wanne"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Deckenstrahler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Deckenstrahler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Waschbecken"
+    },
+    {
+      "Stufe 3": "Abfluss"
+    },
+    {
+      "Stufe 4": "verstopft"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Mischbatterie"
+    },
+    {
+      "Stufe 4": "leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Becken"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "WC"
+    },
+    {
+      "Stufe 3": "Abfluss"
+    },
+    {
+      "Stufe 4": "verstopft"
+    },
+    {
+      "Stufe 4": "undicht"
+    },
+    {
+      "Stufe 3": "Mischbatterie"
+    },
+    {
+      "Stufe 4": "leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schüssel"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 3": "Tapete"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Fliese"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Wasseranschluss"
+    },
+    {
+      "Stufe 3": "Waschbecken"
+    },
+    {
+      "Stufe 4": "kein Durchfluss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Waschmaschine"
+    },
+    {
+      "Stufe 4": "kein Durchfluss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "WC"
+    },
+    {
+      "Stufe 4": "kein Durchfluss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 1": "W - Balkon"
+    },
+    {
+      "Stufe 2": "Abfluss"
+    },
+    {
+      "Stufe 4": "verstopft"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Geländer"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Verglasung"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Geländer"
+    },
+    {
+      "Stufe 3": "Griff/Seil"
+    },
+    {
+      "Stufe 4": "defekt/gerissen"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Flur"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Fliese"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Sprechanlage"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Schrank/Regal"
+    },
+    {
+      "Stufe 3": "Einlegeböden"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Körper"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Tür"
+    },
+    {
+      "Stufe 4": "öffnet nicht"
+    },
+    {
+      "Stufe 4": "Griff fehlt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Abstellraum"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Fliese"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Schrank/Regal"
+    },
+    {
+      "Stufe 3": "Einlegeböden"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Körper"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Tür"
+    },
+    {
+      "Stufe 4": "öffnet nicht"
+    },
+    {
+      "Stufe 4": "Griff fehlt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Kinderzimmer"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Parkett"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Küche"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Fliesen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Parkett"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Herdanschluss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Sanitär"
+    },
+    {
+      "Stufe 3": "Mischbatterie (aus Wand kommend)"
+    },
+    {
+      "Stufe 4": "tropft"
+    },
+    {
+      "Stufe 4": "lose"
+    },
+    {
+      "Stufe 3": "Lüfter"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "lose"
+    },
+    {
+      "Stufe 2": "Gas"
+    },
+    {
+      "Stufe 3": "Gastherme",
+      "Stufe 4": "tropft"
+    },
+    {
+      "Stufe 4": "ausgefallen"
+    },
+    {
+      "Stufe 4": "Geräusche wahrnehmbar"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände"
+    },
+    {
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Schlafzimmer"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Laminat"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Parkett"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung"
+    },
+    {
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff"
+    },
+    {
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen"
+    },
+    {
+      "Stufe 4": "lässt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper"
+    },
+    {
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Thermostat",
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 4": "lose"
+    },
+    {
+      "Stufe 3": "Regler",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen",
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände",
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Wohnzimmer"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Laminat",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten",
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Parkett",
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung",
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen",
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung",
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper",
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen",
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände",
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 1": "W - Sonstige"
+    },
+    {
+      "Stufe 2": "Boden"
+    },
+    {
+      "Stufe 3": "Laminat",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Leisten",
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Parkett",
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 2": "Elektrik"
+    },
+    {
+      "Stufe 3": "Beleuchtung",
+      "Stufe 4": "kein Licht"
+    },
+    {
+      "Stufe 4": "Lichtschalter defekt"
+    },
+    {
+      "Stufe 3": "Steckdose",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 2": "Fenster"
+    },
+    {
+      "Stufe 3": "Glas",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen",
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 2": "Heizung"
+    },
+    {
+      "Stufe 3": "Bodenzeizung",
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Heizkörper",
+      "Stufe 4": "wird nicht warm"
+    },
+    {
+      "Stufe 4": "Anschluss leckt"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Regler",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 2": "Tür"
+    },
+    {
+      "Stufe 3": "Glas",
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "gebrochen"
+    },
+    {
+      "Stufe 3": "Griff",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "fehlt"
+    },
+    {
+      "Stufe 3": "Rahmen",
+      "Stufe 4": "läßt sich nicht öffnen"
+    },
+    {
+      "Stufe 4": "verschmutzt"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    },
+    {
+      "Stufe 3": "Schloss",
+      "Stufe 4": "defekt"
+    },
+    {
+      "Stufe 4": "Schlüssel fehlt"
+    },
+    {
+      "Stufe 2": "Wände",
+      "Stufe 4": "feucht"
+    },
+    {
+      "Stufe 4": "beschädigt"
+    }
+  ]
+}
